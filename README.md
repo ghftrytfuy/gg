@@ -26,12 +26,12 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 今天是我们相遇的第{{love_day.DATA}}天 
 
-{{birthday1.DATA}} 
-{{birthday2.DATA}}
+爱{{birthday1.DATA}} 
+你{{birthday2.DATA}}
 
 
-{{note_en.DATA}} 
-{{note_ch.DATA}}
+呢{{note_en.DATA}} 
+宝{{note_ch.DATA}}
 
 
 天气key生成教程
